@@ -1,2 +1,3 @@
-# clonebot
-Una impresora 3D basada en la Tantillus y Tinyboy 2 para los peques.
+# Clonebot
+
+Una impresora 3D para los peques basada en la Tantillus y Tinyboy 2.
