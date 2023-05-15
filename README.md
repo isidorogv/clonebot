@@ -4,7 +4,7 @@ Una impresora 3D para los peques basada en las impresoras [Tantillus](https://ww
 
 Se incluyen versiones con estructura tubular (pipeFR) y estructura integral impresa (tantillusFR).
 
-Este proyecto se inició como una prueba de concepto (PoC), por lo que no está suficientemente probado y, por lo tanto, podría funcionar de manera incorrecta o no deseada. ¡Usa este proyecto bajo tu responsabilidad!.
+Este proyecto se inició como una **prueba de concepto (PoC)**, por lo que no está suficientemente probado y, por lo tanto, podría funcionar de manera incorrecta o no deseada. Este es un **trabajo en curso (TeC)**, por lo que se esperan cambios continuos. ¡Usa este proyecto bajo tu responsabilidad!.
 
 ---
 
@@ -12,4 +12,4 @@ A 3D printer for kids based in [Tantillus](https://www.reprap.org/wiki/Tantillus
 
 Tubular frame (pipeFR) and integral printed frame (tantillusFR) versions are included.
 
-This project was started as a Proof of Concept (PoC), so it is not enough tested and, consequently, it could work in a wrong or undesired way. Use this project to your own risk!.
+This project was started as a **Proof of Concept (PoC)**, so it is not enough tested and, consequently, it could work in a wrong or undesired way. This is a **Work in Progress (WiP)**, so changes are expected. Use this project to your own risk!.
