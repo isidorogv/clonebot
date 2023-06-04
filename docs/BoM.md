@@ -1,4 +1,4 @@
-# Lista de Material (to do)
+# Lista de Material (TO DO)
 
 ## Ferretería
 - 50 x tornillo allen M3 de 8mm.
@@ -18,20 +18,40 @@
 - 2 x polea de sincronismo dentada (recomendada) o lisa.
 - 3 x polea de transmisión lisa.
 - 2 x acoplador de eje 5mm/5mm para el Eje Z.
-- 1 x tramo de tubo bowden de 30cm y dia.int. 1,8/dia.ext. 4mm
+- 1 x tubo bowden de 30cm y dia.int. 1,8/dia.ext. 4mm.
 
 ### Electrónica
 - 1 x fusor V6/V6 Lite (o compatible) para 12v ó 24v.
 - 1 x ventilador 40x40mm para el fusor.
 - 1 x ventilador de capa [40x40x10mm](https://cutt.ly/JwqE6MxA), [4020mm](https://cutt.ly/6wqRqwXl) o [5015mm](https://cutt.ly/LwqRqdp2) (elegir uno).
-- 4 x motor de pasos NEMA14 o NEMA17
+- 4 x motor de pasos NEMA14 o NEMA17.
 - 1 x placa de control [Fysect AIO II](https://wiki.fysetc.com/AIO_II/) (recomendada).
 - 1 x fuente de alimentación de 12v ó 24v, [tipo laptop](https://cutt.ly/LwqRqvcW) de 120w (como mínimo).
 
 ### Piezas Impresas
 - 1 x rollo de filamento PLA/PTEG 1kg.
-- 1 x pieza impresa **lcd-lid-x1.stl**.
-- 2 x pieza impresa **lcd-stand-x2.stl**.
-- 1 x pieza impresa **frame-half-top-x1.stl**.
-- 1 x pieza impresa **frame-half-bottom-x1.stl**
-- 1 x pieza impresa **frame-electronics-room-x1.stl**.
+- 1 x **blower-holder-zzzz-x1.stl** (zzzz=4010, 4020 o 5015, escoger sólo uno).
+- 1 x **blower-nozzle-zzzz-x1.stl** (zzzz=4010, 4020 o 5015, escoger sólo uno).
+- 1 x **board-holder-x1.stl** (si no se utiliza la electrónica [Fysect AIO II](https://wiki.fysetc.com/AIO_II/)).
+- 1 x **frame-electronics-box-x1.stl**.
+- 1 x **frame-electronics-lid-x1.stl**
+- 1 x **frame-half-bottom-x1.stl**.
+- 1 x **frame-half-top-x1.stl**.
+- 1 x **frog-x1.stl**.
+- 1 x **front-medalion-x1.stl** (opcional).
+- 1 x **lcd-lid-x1.stl**.
+- 2 x **lcd-stand-x2.stl**.
+- 2 x **lid-rod-x2.stl**.
+- 1 x **power-plate-x1.stl**.
+- 1 x **x-carriage-lid-x1.stl**.
+- 1 x **x-carriage-x1.stl**.
+- 1 x **x-endstop-holder-x1.stl**.
+- 1 x **x-idler-L-x1.stl**.
+- 1 x **x-idler-R-x1.stl**.
+- 1 x **x-motor-plate-x1.stl**.
+- 1 x **x-motor-spacer-x1.stl**.
+- 1 x **x-motor-wire-fastener-x1.stl**.
+- 1 x **y-endstop-holder-x1.stl**.
+- 1 x **y-idler-x1.stl**.
+- 1 x **z-endstop-adj-knob-x1.stl**.
+- 1 x **z-endstop-holder-x1.stl**.
