@@ -1,13 +1,13 @@
-# Lista de Material (TO DO)
+# Lista de Material/Bill of Materials (TO DO)
 
-## Ferretería
+## Ferretería/Hardware Store
 - 50 x tornillo allen M3 de 8mm.
 - 50 x tuerca M3 estándar.
 - 2 x tramo de varilla roscada M5 de 195mm.
 - 2 x tuerca M5 de nylon (recomendada) o normal.
 - 1 x bolsa de bridas o cintillos de nylon 2,5mmx100mm.
 
-### Mecánica
+### Mecánica/Mechanics
 - 1 x extrusor bowden completo (motor incluido).
 - 12 x rodamiento LM6UU metálico (recomendado) o su versión Igus.
 - 2 x varilla lisa 6mm de 175mm (Eje X).
@@ -20,7 +20,7 @@
 - 2 x acoplador de eje 5mm/5mm para el Eje Z.
 - 1 x tubo bowden de 30cm y dia.int. 1,8/dia.ext. 4mm.
 
-### Electrónica
+### Electrónica/Electronics
 - 1 x fusor V6/V6 Lite (o compatible) para 12v ó 24v.
 - 1 x ventilador 40x40mm para el fusor.
 - 1 x ventilador de capa [40x40x10mm](https://cutt.ly/JwqE6MxA), [4020mm](https://cutt.ly/6wqRqwXl) o [5015mm](https://cutt.ly/LwqRqdp2) (elegir uno).

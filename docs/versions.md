@@ -1,6 +1,6 @@
 # Versiones de la CLONEBOT
 
-### Clonebot 1.0
+### CloneBOT 1.0
 
 ![Clonebot v.1.0 con estructura tubular de PVC.](pics/pipefr-01.jpg)
 ![Clonebot v.1.0 con estructura tubular de PVC.](pics/pipefr-001.jpg)
@@ -9,5 +9,5 @@
 
 CloneBOT v.1.0 con estructura tubular de PVC.
 
-### Clonebot 2.0
+### CloneBOT 2.0
 
