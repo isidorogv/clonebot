@@ -1,4 +1,4 @@
-# DOCUMENTACION
+# DOCUMENTACION/DOCUMENTATION
 
 Para saber cuántos y cuáles son los materiales necesarios para montar una impresora CloneBOT, consulta el documento [**Lista de Materiales**](BoM.md).
 
@@ -16,4 +16,4 @@ If you want to have a look to all versions made of this printer, check [**Versio
 
 There is also information concerning the [**budget**](cost.md) for a printer like this.
 
-[Frecuently asked Questions](FaQ.md) complete this documentation.
+[**Frecuently asked Questions**](FaQ.md) complete this documentation.
